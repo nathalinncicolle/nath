@@ -2,7 +2,7 @@
 # Meu Perfil
 
 ## Sobre Mim
-Olá! Eu sou nathalin, amo tudo a envolva tecnologia e inovação.
+Olá! Eu sou nathalin, amo tudo que envolva tecnologia e inovação.
 
 ### Minhas Habilidades:
 - Programação em Python, JavaScript, etc.
